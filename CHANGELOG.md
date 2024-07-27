@@ -2,9 +2,49 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2024-07-01)
+## 0.2.2 (2024-07-27)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.1">
+
+## 0.2.1 (2024-02-22)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-14)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-11-23)
+
+<section class="features">
+
+### Features
+
+-   [`0318f32`](https://github.com/stdlib-js/stdlib/commit/0318f3257e411f9d9179b54b4499ffadf66c14f6) - add `math/base/napi/quaternary`
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,7 +52,7 @@
 
 <details>
 
--   [`a591e05`](https://github.com/stdlib-js/stdlib/commit/a591e052cf1b1515c267781b914c6a482e150425) - **test:** fix test configuration _(by Athan Reines)_
+-   [`0318f32`](https://github.com/stdlib-js/stdlib/commit/0318f3257e411f9d9179b54b4499ffadf66c14f6) - **feat:** add `math/base/napi/quaternary` _(by Athan Reines)_
 
 </details>
 
