@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-03-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ffc6fed`](https://github.com/stdlib-js/stdlib/commit/ffc6fed5cdfdd81d0806cec7aed97afb6de40a24) - **refactor:** move implementations and macros to separate files [(#5540)](https://github.com/stdlib-js/stdlib/pull/5540) _(by Karan Anand, stdlib-bot)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
