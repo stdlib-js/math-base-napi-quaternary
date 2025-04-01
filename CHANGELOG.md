@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`bf96d9c`](https://github.com/stdlib-js/stdlib/commit/bf96d9c48edad2e98489d73f1e21fe621fe96f91) - **fix:** rename internal variable `fcn` to avoid shadowing and lint errors [(#6481)](https://github.com/stdlib-js/stdlib/pull/6481) _(by Karan Anand, Athan Reines)_
 -   [`8da699b`](https://github.com/stdlib-js/stdlib/commit/8da699b54580e2139c5cb911176abdb54d36e2c8) - **feat:** add `DIII_D` macro in `math/base/napi/quaternary` [(#5545)](https://github.com/stdlib-js/stdlib/pull/5545) _(by Karan Anand)_
 -   [`ffc6fed`](https://github.com/stdlib-js/stdlib/commit/ffc6fed5cdfdd81d0806cec7aed97afb6de40a24) - **refactor:** move implementations and macros to separate files [(#5540)](https://github.com/stdlib-js/stdlib/pull/5540) _(by Karan Anand, stdlib-bot)_
